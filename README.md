@@ -1,10 +1,10 @@
-# Christie's Homepage
-## Image
-### View
-### Streets
-### Portrait
-## Article
-## Profile
+
+# Image
+## View
+## Streets
+## Portrait
+# Article
+# Profile
 
 ```markdown
 Syntax highlighted code block
