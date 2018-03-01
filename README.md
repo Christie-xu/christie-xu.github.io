@@ -13,9 +13,12 @@ Syntax highlighted code block
 
 # Christie's Homepage
 ## Image
+### View
+### Streets
+### Portrait
 ## Article
 ## Profile
-### Header 3
+
 
 - Bulleted
 - List
