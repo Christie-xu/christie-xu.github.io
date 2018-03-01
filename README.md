@@ -31,4 +31,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Email me at [xuyue14@mails.ucas.ac.cn] (xuyue14@mails.ucas.ac.cn) or [gmail] (kind.chris36@gmail.com)
+Email me at [xuyue14@mails.ucas.ac.cn](xuyue14@mails.ucas.ac.cn) or [gmail](kind.chris36@gmail.com)
