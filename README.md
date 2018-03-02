@@ -1,6 +1,8 @@
 
 # Recent
 ## Sayings
+- 20180302 Changes been made to homepage content
+- 20180301 Homepage created
 ## Pictures
 # Profile
 
@@ -21,6 +23,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Contact
+## Contact
 
 Know me better at [LinkedIn](http://www.linkedin.com/in/christie-yue-xu/) or [ResearchGate](https://www.researchgate.net/profile/Yue_Xu67)
