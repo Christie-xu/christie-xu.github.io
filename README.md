@@ -1,9 +1,7 @@
 
-# Image
-## View
-## Streets
-## Portrait
-# Article
+# Recent
+## Sayings
+## Pictures
 # Profile
 
 ```markdown
