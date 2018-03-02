@@ -6,7 +6,7 @@
 ```
 ```
 
-## Pictures
+## Album
 ![Breakfast London Soho](https://github.com/Christie-xu/christie-xu.github.io/blob/master/images/IMG_4403-3.jpg)
 
 # Profile
