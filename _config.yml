@@ -1,20 +1,25 @@
 theme: jekyll-theme-minimal
 title: Welcome to Chrisite's Homepage
 description: Words and pics.
+
+
 defaults:
 -
  scope:
- path: "images"
+  path: "images"
  values:
- image: true
-
- path: "_post"
- type: "posts"
+  image: true
+-
+ scope:
+  path: "_post"
+  type: "posts"
  values:
- layout: "default"
-{% assign image = site.static_files | where: "image", true %}
-{% for myimage in image %}
-  {{ myimage.path }}
-{% endfor %}
+  layout: "default"
 
-timezone: Asia/Beijing
+
+#{% assign image = site.static_files | where: "image", true %}
+#{% for myimage in image %}
+#  {{ myimage.path }}
+#{% endfor %}
+
+#timezone: Asia/Beijing
