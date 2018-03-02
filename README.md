@@ -3,6 +3,7 @@
 ## Sayings
 - 20180302 Changes been made to homepage content
 - 20180301 Homepage created
+
 ## Pictures
 ![Breakfast London Soho](https://github.com/Christie-xu/christie-xu.github.io/blob/master/images/IMG_4403-3.jpg)
 # Profile
