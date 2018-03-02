@@ -1,6 +1,6 @@
 
 # Recent
-## Sayings
+## Site Log
 * 20180302 Changes been made to homepage content
 * 20180301 Homepage created
 
@@ -13,8 +13,9 @@
 ![profile picture](https://github.com/Christie-xu/christie-xu.github.io/blob/master/images/IMG_4527-1.jpg)
 - Undergraduate Student at the University of Chinese Academy of Sciences
 - Major in Materials Science and Engineering
+- Hobby photographer
 
 
 ## Contact
 
-Know me better at [LinkedIn](http://www.linkedin.com/in/christie-yue-xu/) or [ResearchGate](https://www.researchgate.net/profile/Yue_Xu67)
+Know more at [LinkedIn](http://www.linkedin.com/in/christie-yue-xu/) or [ResearchGate](https://www.researchgate.net/profile/Yue_Xu67)
